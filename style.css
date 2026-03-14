@@ -1,0 +1,43 @@
+body {background-image: url(medias/fond\ yannmail.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: arial;
+    color: white;
+
+}
+.menu_principal a {
+  text-decoration: none;
+  color: red;
+  font-size: 150%;
+}
+
+.menu_principal a:hover {
+  color: rgb(rgb(58, 0, 0), green, blue);
+  text-decoration: underline;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+left: 0;}
+
+
+h1{text-align: center;}
+h2{text-align: center;}
+p{text-align: center;}
+form{font-size: 150%;
+text-align: center;}
+button{font-size: 150%;
+background-color: blueviolet;}
+
+.retour{color: red;
+text-decoration: none;
+font-size: 150%;
+position: fixed;
+bottom: 5%;
+right: 5%;}
+.retour:hover{text-decoration: underline;}
+
+.download{font-size: 150%;}
